@@ -1,7 +1,3 @@
-/**
- * Problem 04 - Delete / Store
- */
-
 let fileName = "result.pdf";
 let grabFileName = fileName.toLowerCase();
 

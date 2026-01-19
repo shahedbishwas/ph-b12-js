@@ -1,7 +1,3 @@
-/**
- * Problem - 02  Cycle or  Laptop
- */
-
 let money = 9999;
 
 if (money >= 25000) {

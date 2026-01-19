@@ -1,7 +1,3 @@
-/**
- * Problem 05 - PH Email Generator
- */
-
 const student = { name: "Shahed", roll: 331558, department: "CSE" };
 
 // output: email generator

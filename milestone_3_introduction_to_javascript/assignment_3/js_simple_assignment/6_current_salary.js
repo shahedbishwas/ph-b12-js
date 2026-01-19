@@ -1,7 +1,3 @@
-/**
- * Current Salary (Chalanging)
- */
-
 let experience = 40;
 let startingSalary = 30000;
 
