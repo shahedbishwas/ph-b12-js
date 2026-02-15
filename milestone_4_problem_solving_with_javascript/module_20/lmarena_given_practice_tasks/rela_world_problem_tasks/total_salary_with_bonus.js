@@ -23,7 +23,7 @@ function totalSalaryWithBonus(employees) {
     if (emp.experience >= 5) {
       // 20% bonus
       const bonusSalary = (emp.salary * 20) / 100;
-      const totalSalary = (emp.salary += bonusSalary);
+      const totalSalary = (emp.salary + bonusSalary);
       totalCost += totalSalary;
     } else {
       totalCost += emp.salary;
